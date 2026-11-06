@@ -1,5 +1,5 @@
 {
-  "ignore_all_timers_and_fetch": false,
+  "ignore_all_timers_and_fetch": true,
   "trigger_id": 1,
-  "note": "Set ignore_all_timers_and_fetch to true to wake up all devices. Increment trigger_id (e.g. 2, 3...) to trigger subsequent wake-ups."
+  "note": "Set ignore_all_timers_and_fetch to true to wake up all devices. Increment trigger_id for subsequent wake-ups."
 }
