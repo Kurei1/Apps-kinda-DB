@@ -1,1 +1,24 @@
-
+[
+  {
+    "id": "welcome_bridge_v1",
+    "title": "Welcome to LAN Printer Bridge",
+    "message": "Dynamic driver synchronization connected. Plug in any USB printer to begin.",
+    "type": "info",
+    "action": ""
+  },
+  {
+    "id": "tip_turbo_mode",
+    "title": "Turbo Streaming Mode",
+    "message": "Turbo mode is active by default for maximum raw throughput and zero print queue delays.",
+    "type": "info",
+    "action": ""
+  },
+  {
+    "id": "update_v1.0.1",
+    "title": "Update Available: v1.0.1",
+    "message": "New update available with expanded printer profile support and performance improvements.",
+    "type": "update",
+    "action": "Download Now",
+    "url": "https://github.com/Kurei1/Lan-Printer-Bridge/releases/latest"
+  }
+]
