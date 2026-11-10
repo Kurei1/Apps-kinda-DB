@@ -1,7 +1,6 @@
 {
-  "version": 1,
-  "builtAt": "2026-11-10T22:50:00.000Z",
-  "count": 2,
+  "totalSources": 2,
+  "lastUpdated": "2026-11-10T23:39:16.240311+00:00",
   "sources": [
     {
       "id": "asura",
@@ -78,7 +77,8 @@
         "url": "a[href*='/comics/']",
         "cover": "img",
         "coverAttr": "src"
-      }
+      },
+      "repoPath": "kurio/sources/asura.json"
     },
     {
       "id": "flame",
@@ -142,7 +142,8 @@
         "url": "a[href*='/series/']",
         "cover": "img",
         "coverAttr": "src"
-      }
+      },
+      "repoPath": "kurio/sources/flame.json"
     }
   ]
 }
