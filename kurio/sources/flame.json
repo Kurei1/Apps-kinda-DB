@@ -1,0 +1,64 @@
+{
+  "id": "flame",
+  "name": "Flame Comics",
+  "baseUrl": "https://flamecomics.xyz",
+  "active": true,
+  "availableGenres": [
+    "Action",
+    "Adaptation",
+    "Adventure",
+    "Comedy",
+    "Cultivation",
+    "Drama",
+    "Fantasy",
+    "Historical",
+    "Isekai",
+    "Magic",
+    "Martial Arts",
+    "Mystery",
+    "Reincarnation",
+    "Romance",
+    "School Life",
+    "Sci-Fi",
+    "Shounen",
+    "Slice of Life",
+    "Supernatural",
+    "System",
+    "Time Travel",
+    "Tower",
+    "Webtoon"
+  ],
+  "catalog": {
+    "listUrl": "/browse",
+    "genreUrl": "/genre/{genre}",
+    "pageSize": 200,
+    "item": "div[class*='cardContainer']",
+    "title": "a[class*='title']",
+    "url": "a[href*='/series/']",
+    "cover": "img",
+    "coverAttr": "src"
+  },
+  "details": {
+    "title": "h1",
+    "description": "meta[property='og:description'], p",
+    "cover": "meta[property='og:image'], img",
+    "coverAttr": "content",
+    "genres": "a[href*='/genre/']",
+    "chapterItem": "a[class*='chapterWrapper']",
+    "chapterName": "p[data-size='md']",
+    "chapterUrl": "a"
+  },
+  "reader": {
+    "pageItem": "img[src*='/uploads/images/series/']",
+    "pageAttr": "src"
+  },
+  "search": {
+    "searchUrl": "/browse?search={query}",
+    "pageSize": 200,
+    "item": "div[class*='cardContainer']",
+    "title": "a[class*='title']",
+    "url": "a[href*='/series/']",
+    "cover": "img",
+    "coverAttr": "src"
+  }
+}
