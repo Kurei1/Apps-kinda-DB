@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id": "welcome_plait_v1",
+    "title": "Welcome to PlaiT",
+    "message": "Local-first YouTube playlist organizer, offline downloader & audio player is ready.",
+    "type": "info",
+    "action": "",
+    "duration_seconds": 6
+  },
+  {
+    "id": "tip_fast_download",
+    "title": "Nitro Chunked Downloads",
+    "message": "Downloads use 4 parallel chunk streams to bypass YouTube throttles at maximum speed.",
+    "type": "tip",
+    "action": "",
+    "duration_seconds": 5
+  }
+]
