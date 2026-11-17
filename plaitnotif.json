@@ -32,11 +32,12 @@
     "duration_seconds": 10
   },
   {
-    "id": "test3",
-    "title": "Well done fixing it",
-    "message": "how can i add a link for a btn",
-    "type": "sup",
-    "action": "Support the app",
-    "duration_seconds": 20
-  }
-]
+  "id": "test3",
+  "title": "Well done fixing it",
+  "message": "how can i add a link for a btn",
+  "type": "sup",
+  "action": "Support the app",
+  "url": "https://ko-fi.com/kurei1m",
+  "duration_seconds": 20
+}
+ ]
