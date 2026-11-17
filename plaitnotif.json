@@ -14,5 +14,13 @@
     "type": "tip",
     "action": "",
     "duration_seconds": 5
+  },
+  {
+    "id": "test",
+    "title": "Toast needs to be fixed",
+    "message": "Right now the toast message is being displayed in the same lvl as the page which makes its elemnts get pushed down instead of displaying over it.",
+    "type": "tip",
+    "action": "",
+    "duration_seconds": 5
   }
 ]
