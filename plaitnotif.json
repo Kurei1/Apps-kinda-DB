@@ -30,5 +30,13 @@
     "type": "tip",
     "action": "",
     "duration_seconds": 10
+  },
+  {
+    "id": "test2",
+    "title": "Well done fixing it",
+    "message": "how can i add a link for a btn",
+    "type": "sup",
+    "action": "Support the app",
+    "duration_seconds": 20
   }
 ]
