@@ -22,5 +22,13 @@
     "type": "tip",
     "action": "",
     "duration_seconds": 5
+  },
+  {
+    "id": "test1",
+    "title": "Lets see if u have fixed it",
+    "message": "this is a test for the fix",
+    "type": "tip",
+    "action": "",
+    "duration_seconds": 10
   }
 ]
